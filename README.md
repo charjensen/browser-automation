@@ -1,4 +1,4 @@
-# Project 11: GitHub Browser Automation
+# GitHub Browser Automation
 
 This project automates a series of actions on GitHub using Puppeteer. The script performs the following tasks:
 
